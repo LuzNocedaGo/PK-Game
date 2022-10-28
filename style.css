@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    font-family: 'Rubik Mono One', sans-serif;
+    font-family: 'Yeseva One', cursive;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 70px;
+    margin-bottom: 10px;
+}
+.flex-box1{
+    display: flex;
+    justify-content: center;
+    flex-flow: row nowrap;
+    border: 2px solid rgb(0, 0, 0);
+    width: 100%;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    align-content: space-around;
+}
+.flex-box1-element{
+    height: 350px;
+    width: 250px;
+    margin: 1px;
+    background-color: #807171;
+    opacity: 1;
+    background-image:  linear-gradient(135deg, #c6aaaa 25%, transparent 25%), linear-gradient(225deg, #c6aaaa 25%, transparent 25%), linear-gradient(45deg, #c6aaaa 25%, transparent 25%), linear-gradient(315deg, #c6aaaa 25%, #807171 25%);
+    background-position:  10px 0, 10px 0, 0 0, 0 0;
+    background-size: 20px 20px;
+    background-repeat: repeat;
+}
+.img1{
+    max-width: 90%;
+    margin-left: 12.5px;  
+}
+.img2{
+    max-width: 89%;
+    margin-left: 12.5px; 
+}
+h2{
+    text-align: center;
+    color: rgb(255, 0, 0);
+    font-size: 30px;
+}
+.img3{
+    max-width: 88.5%;
+    margin-left: 12.5px; 
+    
+}
+.img4{
+    max-width: 88.5%;
+    margin-left: 12.5px; 
+}
+.img5{
+    max-width: 88.5%;
+    margin-left: 12.5px;
+}
+.img6{
+    max-width: 88.5%;
+    margin-left: 12.5px;
+}
+.img7{
+    max-width: 88.5%;
+    margin-left: 12.5px;
+}
+.img8{
+    max-width: 88.5%;
+    margin-left: 12.5px;
+}
+.img9{
+    max-width: 88.5%;
+    margin-left: 12.5px;
+}
+.img10{
+    max-width: 88.5%;
+    margin-left: 12.5px;
+}
+.img11{
+    max-width: 88.5%;
+    margin-left: 12.5px;
+}
+.img12{
+    max-width: 88.5%;
+    margin-left: 12.5px;
+}
+.img13{
+    max-width: 88.5%;
+    margin-left: 12.5px;
+}
+.img14{
+    max-width: 88.5%;
+    margin-left: 12.5px;
+}
+.img15{
+    max-width: 88.5%;
+    margin-left: 12.5px;
+}
+.border{
+    border: 10px solid white;
+    border-radius: 20px;
+}
